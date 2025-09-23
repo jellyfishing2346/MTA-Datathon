@@ -12,6 +12,9 @@ To get the server running locally, follow these steps.
 ### Navigate to the project folder
 `cd backend`
 
+### Create a virtual environment(mac)
+`python3 -m venv venv`
+
 ### Create a virtual environment
 `python -m venv venv`
 
